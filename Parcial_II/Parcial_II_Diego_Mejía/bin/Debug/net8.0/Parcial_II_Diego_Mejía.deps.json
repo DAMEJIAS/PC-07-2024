@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Parcial_II_Diego_Mejía/1.0.0": {
+        "runtime": {
+          "Parcial_II_Diego_Mejía.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parcial_II_Diego_Mejía/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

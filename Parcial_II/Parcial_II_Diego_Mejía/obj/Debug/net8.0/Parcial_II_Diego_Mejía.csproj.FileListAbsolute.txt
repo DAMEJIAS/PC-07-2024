@@ -1,0 +1,14 @@
+C:\Users\Diego\Documents\Parcial_II_Diego_Mejía\bin\Debug\net8.0\Parcial_II_Diego_Mejía.exe
+C:\Users\Diego\Documents\Parcial_II_Diego_Mejía\bin\Debug\net8.0\Parcial_II_Diego_Mejía.deps.json
+C:\Users\Diego\Documents\Parcial_II_Diego_Mejía\bin\Debug\net8.0\Parcial_II_Diego_Mejía.runtimeconfig.json
+C:\Users\Diego\Documents\Parcial_II_Diego_Mejía\bin\Debug\net8.0\Parcial_II_Diego_Mejía.dll
+C:\Users\Diego\Documents\Parcial_II_Diego_Mejía\bin\Debug\net8.0\Parcial_II_Diego_Mejía.pdb
+C:\Users\Diego\Documents\Parcial_II_Diego_Mejía\obj\Debug\net8.0\Parcial_II_Diego_Mejía.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Parcial_II_Diego_Mejía\obj\Debug\net8.0\Parcial_II_Diego_Mejía.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Parcial_II_Diego_Mejía\obj\Debug\net8.0\Parcial_II_Diego_Mejía.AssemblyInfo.cs
+C:\Users\Diego\Documents\Parcial_II_Diego_Mejía\obj\Debug\net8.0\Parcial_II_Diego_Mejía.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Parcial_II_Diego_Mejía\obj\Debug\net8.0\Parcial_II_Diego_Mejía.dll
+C:\Users\Diego\Documents\Parcial_II_Diego_Mejía\obj\Debug\net8.0\refint\Parcial_II_Diego_Mejía.dll
+C:\Users\Diego\Documents\Parcial_II_Diego_Mejía\obj\Debug\net8.0\Parcial_II_Diego_Mejía.pdb
+C:\Users\Diego\Documents\Parcial_II_Diego_Mejía\obj\Debug\net8.0\Parcial_II_Diego_Mejía.genruntimeconfig.cache
+C:\Users\Diego\Documents\Parcial_II_Diego_Mejía\obj\Debug\net8.0\ref\Parcial_II_Diego_Mejía.dll
